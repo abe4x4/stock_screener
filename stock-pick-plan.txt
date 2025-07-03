@@ -1,5 +1,0 @@
-please help me develop a python script thatruns every morning and picksbest 10 stocks with the followiong criteris: 1. stock went up since morning 10%. 2. its volume is up today 5 times the average volume, 3. its price between $2 and $20. 4. has news. 5. has a float of under 20 million shares
-
-can you adjust it to run every hour starting from 7 AM eastern time until 5 pm. can you instruct it to make a sound alret whenit finds a new stock that meets those criteria so i can watch that stock or stocks?    
-can you adjust it to run every hour starting from 7 AM eastern time until 5 pm. can you instruct it to make a           │
-│   sound alret whenit finds a new stock that meets those criteria so i can watch that stock or stocks?    
